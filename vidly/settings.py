@@ -25,7 +25,7 @@ SECRET_KEY = '0dqg$wo1!@k*9w)jf!)q=k2kkugs5^0-kqtxb^gzx3)v!&*n&u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['damp-journey-99854.herokuapp.com']
 
 
 # Application definition
